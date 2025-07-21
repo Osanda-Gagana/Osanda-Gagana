@@ -35,10 +35,12 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Osanda-Gagana&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Osanda-Gagana&theme=radical" />
-</p>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Osanda-Gagana&show_icons=true&theme=radical" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Osanda-Gagana&theme=radical" /></td>
+  </tr>
+</table>
 
 ---
 
