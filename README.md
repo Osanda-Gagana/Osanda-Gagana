@@ -1,11 +1,5 @@
 <!-- Beautiful GitHub Profile README for Osanda Gagana -->
 
-<p align="center">
-  <a href="https://github.com/Osanda-Gagana">
-    <img src="https://avatars.githubusercontent.com/u/62493018?s=400&u=6a96c4a78667d3c573317ea3ec312a9fa1589255&v=4" width="500" height="600" style="border-radius:50%;" alt="Osanda Gagana Profile Photo"/>
-  </a>
-</p>
-
 <h1 align="center">👋 Hello there, I'm <span style="color:#ff69b4;">Osanda Gagana</span>!</h1>
 <h3 align="center">🌟 Engineer | Tech Enthusiast | Life-long Learner</h3>
 
