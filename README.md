@@ -37,7 +37,7 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=osanda-gagana&show_icons=true&theme=radical" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=osanda-gagana&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osanda-gagana&layout=compact&theme=radical" />
 </p>
 
 ---
