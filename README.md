@@ -14,9 +14,8 @@
 ### 💡 About Me
 
 - 🎓 I'm an **Engineer** with a passion for building, automating, and simplifying tech.
-- 💼 I enjoy working with **cloud platforms**, **system design**and **backend development**,.
 - 🌱 Currently learning: `Cloud Infrastructure`, `Kubernetes`, `DevOps Automation`.
-- 💬 Ask me about **Java**, **Python**, **GCP**, **AWS**, **AZURE**, **Terraform**, **Linux**, and more!
+- ⭐ My interests include **cloud technologies**, **DevOps practices**, **distributed systems**, and **backend development**.
 - 🌍 Based in: **Sri Lanka** 🇱🇰
 - ✉️ Reach me at: **osandagagana@example.com** 
 
